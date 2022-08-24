@@ -1,0 +1,5 @@
+# Ignoring saved models.
+*.bin
+
+# Ignoring dataset.
+data.txt
